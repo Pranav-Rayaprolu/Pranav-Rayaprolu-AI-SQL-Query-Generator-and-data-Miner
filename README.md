@@ -1,7 +1,9 @@
 # E-commerce AI Data Analysis Agent
 
 An intelligent question-answering system that converts natural language queries into SQL and provides insights from e-commerce datasets using Google Gemini 2.5.
-
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1zfq67A-8aqL0-LI934VlmDmsHjoFLgk9" alt="E-commerce AI Agent Demo" width="720" />
+</p>
 ## 🚀 Features
 
 - **Natural Language Processing**: Convert plain English questions to SQL queries using Gemini 2.5
@@ -10,7 +12,6 @@ An intelligent question-answering system that converts natural language queries 
 - **Modern Web Interface**: Beautiful React frontend with Tailwind CSS
 - **Production Ready**: FastAPI backend with proper error handling and logging
 - **Comprehensive Analytics**: RoAS calculations, performance metrics, and eligibility tracking
-  (https://drive.google.com/file/d/1zfq67A-8aqL0-LI934VlmDmsHjoFLgk9/view?usp=sharing)
 
 ## 🛠️ Tech Stack
 
